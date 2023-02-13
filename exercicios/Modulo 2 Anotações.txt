@@ -1,0 +1,26 @@
+css web safe font combinations | 
+
+https://www.w3schools.com/cssref/css_websafe_fonts.php
+
+
+Fontes |
+
+Medidas absolutas
+cm, mm, in, px, pt, pc
+
+Medidas Relativas
+em, ex, rem, Vw, vh, %
+
+px e em W3C recomenda.
+
+
+16 pixels geralmente é um(1em)
+
+Modulo 2 Capitulo 14 Aula 09 | Detectando fonte dentro de imagens
+
+- https://www.whatfontis.com/
+
+- https://www.fontsquirrel.com/
+
+- https://www.myfonts.com/ 
+

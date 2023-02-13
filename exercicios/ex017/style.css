@@ -1,0 +1,16 @@
+@charset "UT-8";
+
+/*Shorthand font*/
+/*
+- font-style -> font-weight -> font-size -> font-family
+Exemplo: font: itslic bolder 3em 'work sans', sans-sarif;
+*/
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,1 +1,5 @@
-@Charset "UTF-8";
+@charset "UTF-8";
+
+body, html {
+    background-color: lightgray;
+}
